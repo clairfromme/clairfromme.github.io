@@ -1,0 +1,366 @@
+
+  
+
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+body, html {
+  height: 100%;
+  color:  #0a3958;
+  line-height: 1.8;
+}
+
+p {color: #5f6164}
+i {color: #0a3958}
+div {color: #0a3958}
+
+.w3-dark-grey, .w3-dark-gray,.w3-hover-dark-grey:hover, .w3-hover-dark-gray:hover {
+  color: #fff!important;
+  background-color: #ccc!important;
+}
+
+.w3-xlarge {color: #5f6164;}
+.w3-xlarger {color: #5f6164;}
+.w3-xxlarge {color: #fff;}
+
+.w3-row, .w3-center, .w3-dark-grey, .w3-padding-16 {color: #0a3958;}
+
+
+
+
+.w3-mycoral {
+  background-color: #0a3958;
+
+}
+.w3-mygrey{
+  color: #5f6164;
+}
+
+
+.w3-col m3, element.style {
+  height: 100%;
+}
+
+.w3-white, .w3-hover-black:hover {
+  color: white;
+  background-color: white;
+}
+
+.w3-bar-item, .w3-button {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+.w3-center, .w3-padding-large, .w3-black, .w3-xlarger, .w3-wide, .w3-animate-opacity, .w3-xxlarge {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+
+.body {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+.p {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+.w3-input, .w3-border{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+.w3-content, .w3-container, .w3-padding-64 {font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;} 
+.p1, .p2, .p3, .p4  {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0a3958;}
+ 
+
+
+.bgimg-1 {
+  background-image: url('./boaredwalk_render_fixed_copy.jpg');
+  min-height: 100%
+}
+
+/* .bgimg-2 {
+  background-image: url();
+  min-height: 400px;
+} */
+
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+/* .bgimg-1 {
+  background-image: url('./w3images/parallax1.jpg');
+  min-height: 100%;
+}  */
+
+/* Second image (Portfolio) */
+ .bgimg-2 {
+  background-image: url('./Vignette_small_change.jpg');
+  min-height: 400px
+}
+
+
+/* Third image (Contact) */
+ .bgimg-3 {
+  background-image: url('./ISO_SW_Render.jpg');
+  min-height: 400px;
+} 
+
+
+
+
+
+.carousel-caption, .d-none, .d-md-block
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 80%;
+  margin-left: 20%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+
+
+
+
+
+.carousel-caption21
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 80%;
+  margin-left: 85%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0a3958;
+}
+
+
+.carousel-caption7
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 80%;
+  margin-left: 38%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption8
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 80%;
+  margin-left: 38%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption9
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 93%;
+  margin-left: 24%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption10
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 93%;
+  margin-left: 24%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0a3958;
+  text-align: center;
+}
+
+
+.carousel-caption12
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 83%;
+  margin-left: 30%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0a3958;
+  text-align: center;
+}
+
+
+.carousel-caption13
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 85%;
+  margin-left: 35%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption14
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 87%;
+  margin-left: 35%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption15
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 91%;
+  margin-left: 30%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption16
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 75%;
+  margin-left: 38%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption17
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 92%;
+  margin-left: 38%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption18
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 92%;
+  margin-left: 32%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption19
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 86%;
+  margin-left: 23%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption20
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 77%;
+  margin-left: 35%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption21
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 92%;
+  margin-left: 43%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0a3958;
+  text-align: center;
+}
+
+.carousel-caption22
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 92%;
+  margin-left: 43%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #0a3958;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+p5 {color: #fff}
+p10 {color:#0a3958}
+
+
+
+
+
+
+
+
+
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+
+.padding-10 {padding-bottom: 10px;}
+.padding-40 {padding-bottom: 40px;}
+.padding-55 {padding-bottom: 55px;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1600px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+    min-height: 400px;
+     }
+}
+.w3-black, .w3-hover-black:hover {
+    color: #fdf5e6!important;
+    background-color: #0a3958!important;}
+
+  img.w3-hover-opacity .m3 {
+      width: 216.984px;
+      height: 216.984px;
+  }
+
+#portfolio > div.w3-row-padding.w3-center.w3-section > div {
+  width: 16%;
+}
