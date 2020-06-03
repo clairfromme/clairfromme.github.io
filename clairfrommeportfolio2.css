@@ -116,6 +116,72 @@ div {color: #0a3958}
 }
 
 
+.carousel-caption1
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 84%;
+  margin-left: 38%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption2
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 87%;
+  margin-left: 40%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption4
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 83%;
+  margin-left: 40%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption5
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 84%;
+  margin-left: 40%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption6
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 84%;
+  margin-left: 42%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+
+
 
 
 
@@ -137,8 +203,8 @@ div {color: #0a3958}
 {position: absolute;
   left: 0;
   width: 90%;
-  top: 80%;
-  margin-left: 38%;
+  top: 87%;
+  margin-left: 40%;
   text-align: left;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   color: #fff;
@@ -150,8 +216,8 @@ div {color: #0a3958}
 {position: absolute;
   left: 0;
   width: 90%;
-  top: 80%;
-  margin-left: 38%;
+  top: 87%;
+  margin-left: 40%;
   text-align: left;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   color: #fff;
@@ -251,7 +317,7 @@ div {color: #0a3958}
   left: 0;
   width: 90%;
   top: 92%;
-  margin-left: 38%;
+  margin-left: 35%;
   text-align: left;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   color: #fff;
@@ -310,11 +376,50 @@ div {color: #0a3958}
 {position: absolute;
   left: 0;
   width: 90%;
-  top: 92%;
+  top: 85%;
+  margin-left: 42%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption23
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 85%;
   margin-left: 43%;
   text-align: left;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  color: #0a3958;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption24
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 85%;
+  margin-left: 43%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
+  text-align: center;
+}
+
+
+.carousel-caption25
+{position: absolute;
+  left: 0;
+  width: 90%;
+  top: 85%;
+  margin-left: 44%;
+  text-align: left;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #fff;
   text-align: center;
 }
 
